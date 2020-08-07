@@ -1,0 +1,11 @@
+phenotype_1,phenotype_2,correlation
+Phenotype_A,Phenotype_B,"(0.8100522722234473, 0.0)"
+Phenotype_A,Phenotype_E,"(0.5261804295458743, 0.0)"
+Phenotype_A,Phenotype_C,"(0.3093179713461389, 0.0)"
+Phenotype_B,Phenotype_E,"(0.29302371178623104, 0.0)"
+Phenotype_B,Phenotype_C,"(0.14082232439598277, 0.0)"
+Phenotype_C,Phenotype_E,"(0.04587206425339358, 6.531752547178732e-230)"
+Phenotype_C,Phenotype_D,"(-0.19419044683546471, 0.0)"
+Phenotype_D,Phenotype_E,"(-0.26532194336608256, 0.0)"
+Phenotype_A,Phenotype_D,"(-0.6284145349480399, 0.0)"
+Phenotype_B,Phenotype_D,"(-0.6829381478503702, 0.0)"
